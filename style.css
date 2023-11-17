@@ -1,0 +1,25 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.container{
+    width: 100%;
+    max-width: 1140px;
+    padding-left: 20px;
+    padding-right: 20px;
+    margin-right: auto;
+    margin-left: auto;
+}
+.ota{
+    display: grid;
+    grid-template-columns:repeat(3, 1fr);
+    gap: 10px;
+}
+.bola{
+}
+.bola-1{
+}
+
+
+   
